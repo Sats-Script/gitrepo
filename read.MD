@@ -1,1 +1,3 @@
 # Dosa
+
+new git checkout
